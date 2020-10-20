@@ -4,7 +4,7 @@ from .models import *
 # Create your views here.
 def index(request):
 
-    dests = Destin.objects.all()
+    dests = Destination.objects.all()
 
 
 
