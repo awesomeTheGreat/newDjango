@@ -17,3 +17,5 @@ Simple app made with django.
 5. Migrate(python manage.py migrate), makemigrations(python manage.py makemigrations) and migrate again.
 6. Createsuperuser (python manage.py createsuperuser)
 7. Runserver (python manage.py runserver) [Open your browser and visit 127.0.0.1:8000]
+
+Any PRs That do not break the code will be accepted. Happy Hacktoberfest
