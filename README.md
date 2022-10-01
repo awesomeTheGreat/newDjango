@@ -18,4 +18,4 @@ Simple app made with django.
 6. Createsuperuser (python manage.py createsuperuser)
 7. Runserver (python manage.py runserver) [Open your browser and visit 127.0.0.1:8000]
 
-Any PRs That do not break the code will be accepted. Happy Hacktoberfest
+If you are a tech enthusiast. Please contribute.
